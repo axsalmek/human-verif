@@ -121,7 +121,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://www.aksurance.me/2020/01/15-benefits-of-ginger-for-health-and.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://www.google.com/url?sa=t&source=web&rct=j&url=https://lewatdistrik.blogspot.com/2020/04/5-aplikasi-whatsapp-mod-terbaik-dengan.html&ved=2ahUKEwi8z_zv_dbpAhVgIbcAHQcACd0QFjAAegQIARAB&usg=AOvVaw3yEht9r7cKqYhg3IYdMCvG?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
