@@ -121,7 +121,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://axsblog.xyz/2022/04/24/7-newest-and-best-sunscreens-2022-to-protect-your-skin-from-the-sun/?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://axsalrubiansyah.blogspot.com/2023/11/apps-earn-free-paypal-money-online-2023.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
